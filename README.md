@@ -48,3 +48,12 @@ Project <abbr title="For VRChat :3">Astronyia</abbr> for a Community
 <h3 align="center">API Usage</h2>
 
 `$ npm i neko-chxn`
+
+
+<h3 align="center">What i Like</h3>
+
+<div class="text-gray mb-2">
+<p align="center"><a>Node.js</a></p></div>
+<div class="text-gray mb-2"><p align="center"><a>c#.net</a></p></div>
+<div class="text-gray mb-2"><p align="center"><a>JSON & BSON</a></p></div>
+<div class="text-gray mb-2"><p align="center"><a>MongoDB is Godlike</a></p></div>
